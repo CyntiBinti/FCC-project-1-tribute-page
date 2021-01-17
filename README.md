@@ -1,3 +1,5 @@
-# FCC-tribute-page-1
+Here you'll find all my projects created through working through the freeCodeCamp coding challenges. I'll be uploading as I work through them.
 
-First project challenge from freeCodeCamp where I have to build a tribute page
+Hope you enjoy!
+
+Cynti :)
